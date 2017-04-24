@@ -1,0 +1,8 @@
+{
+  "name": "myserver",
+  "version": "0.0.0",
+  "devDependencies": {
+    "express": "^4.15.2",
+    "jquery": "^3.2.1"
+  }
+}
